@@ -1,0 +1,5 @@
+if when = "jumped"
+   _loop
+      y =+ 10
+      y =- 10
+_endloop
