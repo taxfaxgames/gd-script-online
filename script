@@ -1,0 +1,4 @@
+coins = coins_type
+    coins = coins
+add_coins = 1
+coins = add_coins * 2
